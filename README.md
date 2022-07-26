@@ -57,6 +57,6 @@ You can also create a collection and add an anime to the collection.
 
 - Clone or download this repository. You will need `node` and `npm` installed globally on your machine.
 - cp .env.example .env
-- Run `npm install`
-- Run the app in the development mode with `npm start`
+- Run `npm install` or `yarn install`
+- Run the app in the development mode with `npm start` or `yarn start`
 - Open [http://localhost:3000](http://localhost:3000).
